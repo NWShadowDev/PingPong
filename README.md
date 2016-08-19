@@ -1,6 +1,6 @@
 # _Independent Project Week 3_
 
-#### _My individual week 3 project for Epicodus, August 12th 2016_
+#### _My individual week 3 project for Epicodus, August 19th 2016_
 
 #### By _**Amber Farrington**_
 
