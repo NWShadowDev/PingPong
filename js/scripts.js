@@ -18,7 +18,7 @@ $(document).ready(function() {
         message = "ping";
 //if the input does not equal 3,5,or 15, display alert asking to enter one of those three inputs <Alert is known bug. See README>
       } else {
-        message = alert(" Please Refresh and Enter in a 3, 5, or a 15!");
+        message = i;
       }
 //Append the results in an empty <ul> and add a <li> for every appended value, and also set font-weight for each value to bold
       $("#pingpong").append("<li><strong>" + message + "</strong></li>");

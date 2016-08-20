@@ -67,9 +67,8 @@ input {
 }
 
 button {
-  margin-right: 300px;
+  margin-right: -100px;
   margin-left: 25px;
-  position: fixed;
   border: 3px solid black;
   box-shadow: 0 10px 40px #00D902;
 }
@@ -150,7 +149,7 @@ button:active {
 #pingpong {
   list-style-image: url(../img/pokeball.png);
   margin-top: 30px;
-  margin-left: 300px;
+  margin-left: 600px;
   font-size: 20px;
   text-align: center;
   color: white;

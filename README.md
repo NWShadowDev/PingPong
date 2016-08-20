@@ -29,7 +29,7 @@ _Input 2) The user enters the string "5" as an input, it is converted from a str
 
 _Input 3) The user enters the string "15" as an input, it is converted from a string into a number, and outputs appending values starting with 1, and on 15 it replaces 15 with the word "ping-pong"_
 
-_Input 4) The user enters any number thats not 3,5, or 15 and gets an alert that says to refresh the page and to enter one of those three inputs_
+_Input 4) The user enters any number thats not 3,5, or 15 and gets an alert that says to refresh the page and to enter one of those three inputs_ _*(Update @ 9:10pm Friday 8/19: Alert has been removed)*_
 
 ## Known Bugs
 
@@ -37,9 +37,9 @@ _The "active" state on the "Lets Play" Button does not cover the whole button wh
 
 _The hover state for links has a similar behavior to the button active state._
 
-_Alert message on "else" is displaying even for the input of 3,5,and 15_
+_Alert message on "else" is displaying even for the input of 3,5,and 15._
 
-_Viewport isn't working_
+_Viewport isn't working: Some PC's may need to adjust their resolution to view the CSS margin styles properly_
 
 ## Support and contact details
 
