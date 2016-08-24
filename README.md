@@ -23,8 +23,8 @@ User Input    | Output
 15            | [1-14, "ping-pong"]
 (any other #) | "Refresh and please enter a 3,5, or 15!"
 
-_Input 1) The user enters a number and it goes through the array after the given number and then replaces the number with "ping", "pong", or "ping-pong
-"
+_Input 1) The user enters a number and it goes through the array after the given number and then replaces the number with "ping", "pong", or "ping-pong"
+
 _Input 2) The user enters the string "3" as an input, it is converted from a string into a number, and outputs appending values starting with 1, and on 3 it replaces 3 with the word "ping"_
 
 _Input 3) The user enters the string "5" as an input, it is converted from a string into a number, and outputs appending values starting with 1, and on 5 it replaces 5 with the word "pong"_
