@@ -22,8 +22,8 @@ User Input    | Output
 5             | [1,2,3,4, "pong"]
 15            | [1-14, "ping-pong"]
 
-_Input 1) The user enters a number and it goes through the array after the given number and then replaces the number with "ping", "pong", or "ping-pong
-"
+_Input 1) The user enters a number and it goes through the array after the given number and then replaces the number with "ping", "pong", or "ping-pong"
+
 _Input 2) The user enters the string "3" as an input, it is converted from a string into a number, and outputs appending values starting with 1, and on 3 it replaces 3 with the word "ping"_
 
 _Input 3) The user enters the string "5" as an input, it is converted from a string into a number, and outputs appending values starting with 1, and on 5 it replaces 5 with the word "pong"_
