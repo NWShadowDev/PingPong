@@ -21,7 +21,6 @@ User Input    | Output
 3             | [1,2, "ping"]           
 5             | [1,2,3,4, "pong"]
 15            | [1-14, "ping-pong"]
-(any other #) | "Refresh and please enter a 3,5, or 15!"
 
 _Input 1) The user enters a number and it goes through the array after the given number and then replaces the number with "ping", "pong", or "ping-pong
 "
