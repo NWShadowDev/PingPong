@@ -1,0 +1,30 @@
+{
+  "name": "pingpong",
+  "version": "1.0.0",
+  "description": "#### _My individual week 3 project for Epicodus, Originally Created August 19th 2016 (Redone August 22nd 2016)_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NWShadowDev/PingPong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NWShadowDev/PingPong/issues"
+  },
+  "homepage": "https://github.com/NWShadowDev/PingPong#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.3",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

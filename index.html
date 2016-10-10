@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <link href="css/styles.css" rel="stylesheet">
 <script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
-<script src="js/scripts.js"></script>
+<script src="build/js/app.js"></script>
     <title>Welcome - Ping Pong App!</title>
   </head>
   <body>
@@ -33,15 +33,21 @@
             </li>
           </ul>
         </div>
-        <form id="pingPong">
-          <div class = "col-sm-3" id="col2">
+        <form id="ping-pong-form">
+          <div class = "col-md-3" id="col2">
             <div class="container form-group">
             <h3><u>Enter a number</u>:</h3>
-            <input type="text" name="number" id="digits" placeholder="Enter a number!"></input>
+            <input type="text" name="number" id="goal" placeholder="Enter a number!"></input>
             <button type="submit" id="play" value="Ping-Pong" class="btn btn-lg">Let's Play!</button>
-          </div>
+
         </form>
-      <ul id="playPong"><ul>
+        <form id="signup">
+  <label for="email">Enter your email:</label>
+  <input id="email" type="text">
+  <button type="submit">Submit</button>
+</form>
+</div>
+      <ul id="solution"><ul>
       </div>
     </div>
   </body>

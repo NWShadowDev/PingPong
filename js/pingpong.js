@@ -15,7 +15,7 @@ Calculator.prototype.pingPong = function(number){
     }else {
       message.push(i);
     }
-  };
+  }
   return message;
 };
 

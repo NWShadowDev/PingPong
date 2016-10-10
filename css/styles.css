@@ -146,7 +146,7 @@ button:active {
   margin-top: -60px;
   box-shadow: 0 10px 40px #00D902;
 }
-#playPong {
+#solution {
   list-style-image: url(../img/pokeball.png);
   margin-top: 30px;
   margin-left: 600px;
