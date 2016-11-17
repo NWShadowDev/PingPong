@@ -1,5 +1,7 @@
 # _Independent Project Week 3_
 
+* _Note: This project was individual originally, but we were charged with re-doing our Ping-Pong Project later on and I was paired with Karen_
+
 #### _My individual week 3 project for Epicodus, Originally Created August 19th 2016 (Redone August 22nd 2016)_
 
 #### By _**Amber Farrington**_
@@ -11,8 +13,16 @@ _This project has the user enter 3, 5, or 15 as an input and the result appends 
 ## Setup/Installation Requirements
 
 * _For optimal viewing of the page layout, set your browser resolution to 1176 x 1252_
-* _Have Access to the internet to click the .io link for the project_
-https://nwshadowdev.github.io/PingPong/
+* _Have Access to the internet to click the .io link for the live project_
+
+[Live Link](https://nwshadowdev.github.io/PingPong/)
+
+* _If you wish to see the code for this application, follow the following instructions:_
+* _Click the "Clone or Download" button to the top right of this repository_
+* _Open your local command line or "terminal" and navigate to your desired folder to place this project_
+* _Enter in the command "git clone" and place the URL that you cloned from the pasteboard after the command_
+* _Make sure you have ATOM Text Editor or Sublime Text 3 or Notepad to view the code properly_
+
 
 ## Behavior Driven Development
 
@@ -55,5 +65,5 @@ _Git Bash for Windows_
 _Chrome Browser_
 
 ### License
-https://nwshadowdev.github.io/PingPong/
+
 Copyright (c) 2016 **_Amber Farrington_**
