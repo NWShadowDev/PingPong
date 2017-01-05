@@ -1,4 +1,4 @@
-# _Independent Project Week 3_
+# _Independent Project Javascript Week 3_
 
 * _Note: This project was individual originally, but we were charged with re-doing our Ping-Pong Project later on and I was paired with Karen_
 
